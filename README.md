@@ -4,7 +4,7 @@
 
 <p>Based on Traversy Media's <a href="https://youtu.be/w7ejDZ8SWv8">React JS Crash Course 2021</a>, but with added features.</p>
 
-<p>You can see the course repository <a href="">here</a>.</p>
+<p>You can see the course repository <a href="https://github.com/bradtraversy/react-crash-2021">here</a>.</p>
 
 <p>
   To run
